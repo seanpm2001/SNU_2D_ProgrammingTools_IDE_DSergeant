@@ -32,6 +32,11 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# DSergeant source file
+# Recognizing as D for now
+*.drill linguist-detectable=true
+*.drill linguist-documentation=false
+*.drill linguist-language=D
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +166,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
+
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2023, Sunday, April 2nd at 1:07 pm PST)
+# Line count (including blank lines and compiler line): 179
+
 # End of script
